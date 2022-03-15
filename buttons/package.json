@@ -8,7 +8,7 @@
     "@babel/preset-env": "7.9.6",
     "babel-loader": "8.1.0",
     "css-loader": "3.5.3",
-    "lodash-es": "4.17.15",
+    "lodash-es": "4.17.21",
     "style-loader": "1.2.1",
     "webpack": "5.0.0-beta.16",
     "webpack-cli": "3.3.11"
